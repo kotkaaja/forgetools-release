@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "notes": "Update versi 1.0.2 tersedia dengan performa lebih baik dan perbaikan fitur.",
   "pub_date": "2026-06-25T13:56:08.724Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFdqYTg1VEFzOENNWXVNTW9YR1NHWmxVaDF2K1JYSDBaZWJCUEkwd21JdHFNYW93L0k5QXdTWG9NalVzWUx5eldPRzlZdWJMMVBEblQ5NnNvTXdTd2FseWJlRGw1eEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzk1NzY4CWZpbGU6Rm9yZ2VUb29sc18xLjAuMl94NjQtc2V0dXAuZXhlCjVISnZjemp5SjFnLzdqemF3MWg5Z3hEMnFlYVhyUnBLemVvcFRpb3U1UUVJQmVkTHJsc3dvRVYzMy9sWVZiMmdVdllnS2pIYmx5WSs0N1o3YTNVY0RBPT0K",
-      "url": "https://github.com/kotkaaja/forgetools-release/releases/download/v1.0.2/ForgeTools_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFdqYTg1VEFzOEZFNlVqdG0wR2VsQU5SNzVzNzN6QTRjZ2IwbTF0THZ4MnNqRnRQb0lpcHhuY1ZpdFhyM2pINmoyOW8zOXVJNi91bmJSc1F0Y01SdDNuSzZuZ1NXaXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzk3Njc0CWZpbGU6Rm9yZ2VUb29sc18xLjAuMV94NjQtc2V0dXAuZXhlCkt3a3dDeTJVQUpWdlVXcmtGWGR3ckdRbTBqSHlkQitPZVpxMFd5K3haNFdHQmMyUFpTd0UyMjVZZktNNlFsWWIyZThEdFBVeng1MlBPNklncmkxUUFBPT0K",
+      "url": "https://github.com/kotkaaja/forgetools-release/releases/download/v1.0.1/ForgeTools_1.0.1_x64-setup.exe"
     }
   }
 }
